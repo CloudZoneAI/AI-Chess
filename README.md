@@ -1,2 +1,2 @@
 # AI-LUDO
-An Artificial intelligence programmed Game to play against AI with AI Algorithms
+An Artificial intelligence programmed Chess Game to play against AI with AI Algorithms
